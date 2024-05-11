@@ -2,9 +2,9 @@
 Meet Jegan 💼, A multifaceted professional! 🌟 He's a motivational speaker 🎤 and preacher ⛪; Jegan also dedicatedly served as a superintendent 🏠 in a children's home 🧒👧. Moreover, Jegan possesses remarkable expertise 💻 in web design, with a specialization in UX/UI, making him a true master of his craft! 🖥️
 
 # 📞 Contact
-##### **☎️ Phone:**  9444414229
-##### **📧 Mail:** mail@jegan.me
-##### **🌐 Website:** [JEGAN](https://www.jegan.me)
+##### **☎️** 9444414229
+##### **📧** mail@jegan.me
+##### **🌐** [JEGAN](https://www.jegan.me)
 
 # 🚀 Projects
 | Name | Link  |
