@@ -1,6 +1,17 @@
-# 💫 About Me:
-Meet Jegan 💼, a multifaceted professional! 🌟 He's not just a motivational speaker 🎤 and preacher ⛪; he's also dedicatedly served as a superintendent 🏠 in a children's home 🧒👧. Moreover, Jegan possesses remarkable expertise 💻 in web design, with a specialization in UX/UI, making him a true master of his craft! 🖥️
 
+# 💫 About Me:
+Meet Jegan 💼, A multifaceted professional! 🌟 He's a motivational speaker 🎤 and preacher ⛪; Jegan also dedicatedly served as a superintendent 🏠 in a children's home 🧒👧. Moreover, Jegan possesses remarkable expertise 💻 in web design, with a specialization in UX/UI, making him a true master of his craft! 🖥️
+
+# 📞 Contact
+**Phone:**  9444414229
+**Mail:** mail@jegan.me
+**Website:** [Portfolio](https://www.jegan.me)
+
+# 🚀 Projects
+| Name | Link  |
+|--|--|
+| TamilBible | [Link](https://www.tamilbibleverse.com/) |
+| BibleKart | [Link](https://www.biblekart.in/) |
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mdjegan) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mdjegan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jegan.m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdjegan) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mjegan) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/m_jegan) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/mdjegan) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mdjegan) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jegan) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jegan) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mdjegan) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@jegan) 
@@ -12,7 +23,10 @@ Meet Jegan 💼, a multifaceted professional! 🌟 He's not just a motivational 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mdjegan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjegan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=mdjegan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with Jegan( https://www.jegan.me ) -->
